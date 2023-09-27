@@ -34,7 +34,7 @@ async function retrieveDataFromApi(url, params) {
     }
 }
 
-// from the parameters passed
+// from the parameters passed, generate a string
 function composeParameters(params) {
   let paramString = "";
   for (const key in params) {
@@ -64,6 +64,7 @@ async function displayToDom() {
     // clear out the screen from previous rendering
     formElement.innerHTML = `<form class="answer-options"></form>`
     result.textContent = ``
+
      // get questions data from api
     const questionData = await fetchQuestions();
 
@@ -104,17 +105,10 @@ async function displayToDom() {
         formElement.appendChild(labelElement)
 
     }
-        // answerOptions.textContent = questionObject.incorrect_answers
-    
-    // update question on screen
-    // let questionOne = questionData.results[0].question
-    // question.textContent = questionOne
-    
-    // let answerOptions = questionData.results[0].incorrect_answers
-    //     correctAnswer = questionData.results[0].correct_answer
-
-
 }
+       
+
+
     
 //form functionality
 document.addEventListener("DOMContentLoaded", displayToDom())
