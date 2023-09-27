@@ -29,6 +29,8 @@ At the moment all the questions in the quiz are related to my favourite subject 
 - give users the option to choose the category of questions for the quiz
 - choose number of questions
 
+## Reflections
+I had alot of fun selecting illustrations for this app that reflect the theme of the project :) It also helped in deepening my understanding of fetch, async/await syntax and DOM manipulation. Looking forward to building this project in React! 
 
 ## Tech Stack
 
