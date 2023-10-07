@@ -22,7 +22,7 @@ Each time the screen is refreshed or user clicks on the 'next question' button, 
 
 ## Planning & build process
 
-After examining the API docs, I tested API calls using ThunderClient. Once ensuring everything worked as expected, I planned out the functionality of the app using computational thinking to break down the logic into smaller pieces of code.
+After examining the API docs, I tested API calls using ThunderClient. After ensuring everything worked as expected, I planned out the functionality of the app using computational thinking to break down the logic into smaller pieces of code.
 ## Optimizations
 
 At the moment all the questions in the quiz are related to my favourite subject of history. In future, I would like to 
