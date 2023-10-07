@@ -1,6 +1,6 @@
 # Back in Time Trivia
 
-I created this app using the [Trivia API](https://opentdb.com/api_config.php). The idea behind the app is to practice retrieving data from an external API and rendering it to a browser.
+I created this app using the [Trivia API](https://opentdb.com/api_config.php). The idea behind the app is to practice retrieving data from an external API and render it to a browser.
 
 
 
