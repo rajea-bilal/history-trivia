@@ -26,7 +26,7 @@ After examining the API docs, I tested API calls using ThunderClient. After ensu
 ## Optimizations
 
 At the moment all the questions in the quiz are related to my favourite subject of history. In future, I would like to 
-- give users the option to choose the category of questions for the quiz
+- Allow users to select the quiz question category
 - choose number of questions
 
 ## Reflections
