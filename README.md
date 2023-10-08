@@ -22,7 +22,7 @@ I created this app using the [Trivia API](https://opentdb.com/api_config.php). T
 
 ## Planning & build process
 
-I reviewing the documentation and tested API calls with ThunderClient. Using computational thinking, I planned out the app's logic and broke down the project into smaller code components. 
+I reviewed the documentation and tested API calls with ThunderClient. Using computational thinking, I planned out the app's logic and broke down the project into smaller code components. 
 ## Optimizations
 
 At the moment all the questions in the quiz are related to my favourite subject of history. In future, I would like to 
