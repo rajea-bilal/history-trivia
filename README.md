@@ -13,16 +13,16 @@ I created this app using the [Trivia API](https://opentdb.com/api_config.php). T
 
 - The app displays a single question with a set of answer options to choose from.
 
-- Users have the option to make their selection and promptly receive feedback on their choice with a message at the bottom.
+- Users can make their selection and will promptly receive feedback on their choice with a message.
 
-- Each time the user answers correctly, they win a point which is displayed at the top of the quiz.
+- Each time a user answers correctly, they earn a point which is displayed at the top of the quiz.
 
-- Each time the screen is refreshed or user clicks on the 'next question' button, a new randomly generated history question appears.
+- Whenever browser is refreshed or user clicks on the 'next question' button, a new randomly generated history question appears.
 
 
 ## Planning & build process
 
-After examining the API docs, I tested API calls using ThunderClient. After ensuring everything worked as expected, I planned out the functionality of the app using computational thinking to break down the logic into smaller pieces of code.
+I reviewing the documentation and tested API calls with ThunderClient. Using computational thinking, I planned out the app's logic and broke down the project into smaller code components. 
 ## Optimizations
 
 At the moment all the questions in the quiz are related to my favourite subject of history. In future, I would like to 
